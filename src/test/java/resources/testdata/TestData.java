@@ -1,4 +1,4 @@
-package testdata;
+package resources.testdata;
 
 /**
  * Created by Jay
